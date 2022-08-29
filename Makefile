@@ -1,5 +1,5 @@
-WOKWI_PROJECT_ID=334445762078310996
-# logic puzzle and muxes
+WOKWI_PROJECT_ID=341279123277087315
+# seven-segment counter
 # 4 inverters 334348818476696146
 # the clock divider 334335179919196756
 fetch:
